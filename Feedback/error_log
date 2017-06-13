@@ -1,0 +1,506 @@
+[05-Nov-2015 23:51:14 UTC] PHP Notice:  Undefined variable: mysqli in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 53
+[05-Nov-2015 23:51:14 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 53
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/majestiquedi/public_html/introtophp/Honors Project/Template/dbConnect.php5:26) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 9
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  include(Registration.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 114
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  include(Registration.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 114
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  include(): Failed opening 'Registration.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 114
+[05-Nov-2015 23:53:30 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/majestiquedi/public_html/introtophp/Honors Project/Template/dbConnect.php5:26) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 9
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  include(Registration.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 114
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  include(Registration.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 114
+[05-Nov-2015 23:53:30 UTC] PHP Warning:  include(): Failed opening 'Registration.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 114
+[05-Nov-2015 23:53:30 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:54:52 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:54:53 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:55:30 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:55:30 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 404
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 407
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: password in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 411
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 404
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 407
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: password in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 411
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[05-Nov-2015 23:59:22 UTC] PHP Notice:  Undefined variable: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 404
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 407
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: password in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 411
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 400
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 404
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 407
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: password in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 411
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[06-Nov-2015 00:00:01 UTC] PHP Notice:  Undefined variable: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 404
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 407
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: password in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 411
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 404
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 407
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: password in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 411
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[06-Nov-2015 00:01:01 UTC] PHP Notice:  Undefined variable: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:02:48 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[06-Nov-2015 00:02:48 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[06-Nov-2015 00:02:48 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:02:48 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 409
+[06-Nov-2015 00:02:48 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 413
+[06-Nov-2015 00:02:48 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 415
+[06-Nov-2015 00:03:56 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 412
+[06-Nov-2015 00:03:56 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:03:56 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:03:56 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 412
+[06-Nov-2015 00:03:56 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:03:56 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:03:57 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 412
+[06-Nov-2015 00:03:57 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:03:57 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:03:57 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 412
+[06-Nov-2015 00:03:57 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:03:57 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:06:21 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:06:21 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:06:21 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:06:21 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:06:21 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:06:21 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:07:24 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:07:24 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:07:24 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:07:25 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:07:25 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:07:25 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:07:47 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:07:47 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:07:47 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:07:47 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:07:47 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:07:47 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:08:45 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:08:45 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:08:45 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:08:45 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:08:45 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:08:45 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:08:57 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:08:57 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:08:57 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:08:57 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:08:57 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:08:57 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:09:06 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:09:06 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:09:06 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:09:06 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:09:06 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:09:06 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:09:15 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:09:15 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:09:15 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:09:15 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:09:15 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:09:15 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:09:17 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:09:17 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:09:17 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:09:17 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:09:17 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:09:17 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:11:06 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:11:06 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:11:06 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:11:06 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 418
+[06-Nov-2015 00:11:06 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 428
+[06-Nov-2015 00:11:06 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 433
+[06-Nov-2015 00:12:00 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:12:00 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:12:44 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:12:44 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:13:22 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:13:22 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 20
+[06-Nov-2015 00:13:29 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:13:29 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:13:29 UTC] PHP Warning:  include(): Failed opening 'registerInsertSQL.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined variable: presenter_email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 124
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined index: confEmail in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 143
+[06-Nov-2015 00:13:29 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 145
+[06-Nov-2015 00:15:42 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:15:42 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:15:42 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:15:42 UTC] PHP Warning:  include(): Failed opening 'registerInsertSQL.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:15:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:15:42 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:15:42 UTC] PHP Notice:  Undefined variable: presenter_email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:15:42 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:15:42 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 145
+[06-Nov-2015 00:17:55 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:17:55 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:17:55 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:17:55 UTC] PHP Warning:  include(): Failed opening 'registerInsertSQL.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:17:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:17:55 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:17:55 UTC] PHP Notice:  Undefined variable: presenter_email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:17:55 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:17:55 UTC] PHP Notice:  Undefined index: confPassword in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 145
+[06-Nov-2015 00:18:41 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:18:41 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:18:41 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:18:41 UTC] PHP Warning:  include(): Failed opening 'registerInsertSQL.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:18:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:18:41 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:18:41 UTC] PHP Notice:  Undefined variable: presenter_email in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:18:41 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:19:24 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:19:24 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:19:24 UTC] PHP Warning:  include(registerInsertSQL.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:19:24 UTC] PHP Warning:  include(): Failed opening 'registerInsertSQL.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 30
+[06-Nov-2015 00:19:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:19:24 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:19:24 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:20:28 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:20:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:20:28 UTC] PHP Notice:  Undefined variable: eventRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[06-Nov-2015 00:20:46 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:20:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 32
+[06-Nov-2015 00:20:55 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:21:24 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:21:32 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:21:32 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:21:48 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 00:22:03 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:22:03 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:23:03 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:23:03 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:23:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:23:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:24:08 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:24:08 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:24:46 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:24:46 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[06-Nov-2015 00:25:19 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:25:19 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:25:44 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:25:44 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:25:49 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:25:49 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:01 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:01 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:02 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:02 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:12 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:12 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:31 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:31 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:59 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:26:59 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:22 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:22 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:39 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:39 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:40 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:40 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:43 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:27:43 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:28:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:28:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:28:22 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:28:22 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:33:18 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:33:18 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:33:29 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:33:29 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:33:54 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:33:54 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:34:56 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:34:56 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:04 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:36 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:36 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:52 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:52 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:53 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 00:35:53 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 01:30:50 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 01:52:25 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[06-Nov-2015 01:52:34 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[06-Nov-2015 02:08:19 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[07-Nov-2015 01:25:17 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[07-Nov-2015 01:32:29 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[07-Nov-2015 01:32:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 416
+[07-Nov-2015 01:34:41 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 430
+[07-Nov-2015 01:34:42 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 430
+[07-Nov-2015 01:34:57 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:34:57 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:37:54 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:37:54 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:38:51 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:38:51 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:39:03 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:39:03 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:39:10 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:39:10 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:44:14 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:44:14 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:45:10 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:45:10 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:45:26 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:45:26 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:48:13 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 01:48:13 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 02:41:33 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[07-Nov-2015 03:16:47 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[10-Nov-2015 19:03:20 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[10-Nov-2015 19:03:20 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[10-Nov-2015 19:03:27 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:06:20 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[10-Nov-2015 19:06:20 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 425
+[10-Nov-2015 19:06:26 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:06:58 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:06:58 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 19:08:26 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:08:26 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 19:08:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:08:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:08:36 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:08:36 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 19:09:01 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:09:01 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:09:05 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:09:05 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 19:17:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:17:30 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:20:31 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:20:31 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:20:36 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 19:20:36 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 19:21:45 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 19:21:45 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 426
+[10-Nov-2015 20:01:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 445
+[10-Nov-2015 20:01:05 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 445
+[10-Nov-2015 20:01:51 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 20:01:51 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 20:01:51 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 42
+[10-Nov-2015 20:03:00 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 445
+[10-Nov-2015 20:03:00 UTC] PHP Notice:  Undefined index: about in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 445
+[10-Nov-2015 20:03:07 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 11
+[10-Nov-2015 20:03:07 UTC] PHP Notice:  Undefined index: user_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 24
+[10-Nov-2015 20:06:25 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:06:25 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:06:25 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:06:25 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:06:31 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:06:31 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:06:31 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:06:31 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:06:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:06:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:06:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:06:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:07:03 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:07:03 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:07:03 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:07:03 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:07:41 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:07:41 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:07:41 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:07:41 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:07:58 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:07:58 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:07:58 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:07:58 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:08:36 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:08:36 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:08:36 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:08:36 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:08:40 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:08:40 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:08:41 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:08:41 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:09:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:09:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:09:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:09:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:10:37 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:10:37 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:10:37 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:10:37 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:10:42 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:10:42 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:10:42 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:10:42 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:12:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:12:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:12:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:12:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:12:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:12:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:12:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:12:43 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:12:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:12:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:12:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:12:47 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:13:16 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:13:16 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:13:16 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:13:16 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:14:33 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:14:33 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:14:33 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:14:33 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:16:09 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:16:09 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:16:09 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:16:09 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:16:54 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:16:54 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:16:54 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:16:54 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:17:02 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:17:02 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:17:02 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:17:02 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:18:00 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:18:00 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_aray() in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 82
+[10-Nov-2015 20:18:06 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:18:06 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:18:06 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:18:06 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:18:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:18:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:18:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 73
+[10-Nov-2015 20:18:11 UTC] PHP Notice:  Undefined variable: updateRecId in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 438
+[10-Nov-2015 20:18:38 UTC] PHP Notice:  Undefined index: event_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 72
+[10-Nov-2015 20:18:38 UTC] PHP Notice:  Undefined index: event_id in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 72
+[10-Nov-2015 20:19:06 UTC] PHP Notice:  Undefined variable: displayMsg in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 461
+[10-Nov-2015 20:20:34 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 39
+[10-Nov-2015 20:23:18 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 84
+[29-Nov-2015 03:03:48 UTC] PHP Notice:  Undefined index: role in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 21
+[29-Nov-2015 03:03:48 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[29-Nov-2015 03:03:48 UTC] PHP Notice:  Undefined index: role in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 70
+[29-Nov-2015 03:06:42 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 36
+[01-Dec-2015 20:16:40 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 56
+[01-Dec-2015 20:20:35 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 47
+[01-Dec-2015 20:56:12 UTC] PHP Fatal error:  Call to a member function selectUserDataFromDBForUpdate() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 53
+[01-Dec-2015 20:56:35 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 150
+[01-Dec-2015 20:58:25 UTC] PHP Fatal error:  Call to a member function connectToDB() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 18
+[01-Dec-2015 20:58:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 150
+[01-Dec-2015 20:59:49 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 156
+[01-Dec-2015 21:02:16 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 156
+[01-Dec-2015 21:02:56 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 157
+[01-Dec-2015 21:03:09 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 157
+[01-Dec-2015 21:03:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 157
+[01-Dec-2015 21:04:24 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 166
+[01-Dec-2015 21:17:17 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 152
+[01-Dec-2015 21:19:25 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:19:44 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:20:12 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 173
+[01-Dec-2015 21:20:36 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 173
+[01-Dec-2015 21:22:11 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:23:20 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:25:03 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 173
+[01-Dec-2015 21:26:15 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 173
+[01-Dec-2015 21:26:58 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 173
+[01-Dec-2015 21:28:14 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:28:29 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:28:30 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:30:14 UTC] PHP Parse error:  syntax error, unexpected '$query2' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:30:49 UTC] PHP Parse error:  syntax error, unexpected '$query2' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:31:26 UTC] PHP Parse error:  syntax error, unexpected '$query2' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 174
+[01-Dec-2015 21:37:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 45
+[01-Dec-2015 21:39:26 UTC] PHP Warning:  Missing argument 8 for ProjectDAO::updateUserDataInDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 37 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 171
+[01-Dec-2015 21:39:46 UTC] PHP Warning:  Missing argument 8 for ProjectDAO::updateUserDataInDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 37 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 171
+[01-Dec-2015 21:39:46 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[01-Dec-2015 21:39:55 UTC] PHP Warning:  Missing argument 8 for ProjectDAO::updateUserDataInDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 37 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 171
+[01-Dec-2015 21:45:35 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 178
+[01-Dec-2015 21:46:08 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 178
+[03-Dec-2015 19:28:05 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 196
+[03-Dec-2015 19:42:45 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:44:30 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:44:42 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:44:52 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:46:03 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:46:12 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:46:56 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:46:56 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 178
+[03-Dec-2015 19:47:48 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:47:48 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 178
+[03-Dec-2015 19:47:51 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 177
+[03-Dec-2015 19:47:51 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 178
+[03-Dec-2015 19:55:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 12
+[03-Dec-2015 19:56:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 12
+[03-Dec-2015 19:57:31 UTC] PHP Fatal error:  Call to a member function connectToDB() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 14
+[03-Dec-2015 20:06:30 UTC] PHP Parse error:  syntax error, unexpected '$updateRecId' (T_VARIABLE), expecting function (T_FUNCTION) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 11
+[03-Dec-2015 20:06:41 UTC] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 11
+[03-Dec-2015 20:06:54 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 11
+[03-Dec-2015 20:18:59 UTC] PHP Warning:  Missing argument 8 for ProjectDAO::updateUserDataInDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 39 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 170
+[03-Dec-2015 20:18:59 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 176
+[03-Dec-2015 20:19:45 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 176
+[03-Dec-2015 20:20:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 176
+[03-Dec-2015 20:36:18 UTC] PHP Fatal error:  Call to a member function connectToDB() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedbackbody.php5 on line 2
+[03-Dec-2015 20:36:42 UTC] PHP Fatal error:  Class 'ProjectDAO' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedbackbody.php5 on line 2
+[03-Dec-2015 20:38:31 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 203
+[03-Dec-2015 20:38:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 203
+[03-Dec-2015 20:39:29 UTC] PHP Fatal error:  Call to a member function bind_result() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 204
+[03-Dec-2015 20:40:00 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 203
+[03-Dec-2015 20:40:08 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 203
+[03-Dec-2015 20:40:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/mainheader.php5:17) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/header.php5 on line 3
+[03-Dec-2015 21:02:40 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 211
+[04-Dec-2015 01:33:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedback.php5:12) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/header.php5 on line 3
+[04-Dec-2015 01:33:07 UTC] PHP Fatal error:  include(): Cannot redeclare class projectdao in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedbackbody.php5 on line 2
+[04-Dec-2015 01:33:35 UTC] PHP Fatal error:  include(): Cannot redeclare class projectdao in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedback.php5 on line 6
+[04-Dec-2015 01:52:25 UTC] PHP Fatal error:  Call to a member function store_result() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 194
+[04-Dec-2015 01:52:40 UTC] PHP Fatal error:  Call to a member function store_result() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 194
+[04-Dec-2015 01:52:41 UTC] PHP Fatal error:  Call to a member function store_result() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 194
+[04-Dec-2015 01:55:16 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 194
+[04-Dec-2015 01:55:33 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 196
+[04-Dec-2015 01:55:34 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 196
+[04-Dec-2015 01:55:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/projectDAO.php5 on line 195
+[05-Dec-2015 21:50:19 UTC] PHP Fatal error:  Class 'ProjectDAO' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedback.php5 on line 8
+[05-Dec-2015 21:58:41 UTC] PHP Fatal error:  Class 'ProjectDAO' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/deleteUserData.php5 on line 9
+[06-Dec-2015 05:09:21 UTC] PHP Warning:  include(../saveRatingIntoDB.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedbackForm.php5 on line 7
+[06-Dec-2015 05:09:21 UTC] PHP Warning:  include(../saveRatingIntoDB.php5): failed to open stream: No such file or directory in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedbackForm.php5 on line 7
+[06-Dec-2015 05:09:21 UTC] PHP Warning:  include(): Failed opening '../saveRatingIntoDB.php5' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/feedbackForm.php5 on line 7
+[06-Dec-2015 05:54:37 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 257
+[06-Dec-2015 06:16:25 UTC] PHP Warning:  Missing argument 1 for ProjectDAO::displayAllRatingsFromDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/reviews.php5 on line 13 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 253
+[06-Dec-2015 06:21:01 UTC] PHP Fatal error:  Call to a member function bind_result() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 258
+[06-Dec-2015 06:21:59 UTC] PHP Fatal error:  Call to a member function bind_result() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 258
+[06-Dec-2015 06:25:30 UTC] PHP Warning:  Missing argument 1 for ProjectDAO::displayUserRatingFromDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/reviews.php5 on line 13 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 253
+[06-Dec-2015 06:27:53 UTC] PHP Warning:  Missing argument 1 for ProjectDAO::displayUserRatingFromDB(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/reviews.php5 on line 13 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 253
+[06-Dec-2015 06:29:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 259
+[06-Dec-2015 06:31:34 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 259
+[06-Dec-2015 21:48:20 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 288
+[06-Dec-2015 21:58:55 UTC] PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 279
+[06-Dec-2015 22:34:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/majestiquedi/public_html/introtophp/Honors Project/Template/ProjectDAO.php5 on line 261
+[07-Dec-2015 01:33:39 UTC] PHP Fatal error:  Call to undefined method DisplayStars::selectPersonWhoGaveReview() in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/reviews.php5 on line 23
+[07-Dec-2015 05:14:45 UTC] PHP Fatal error:  Call to undefined method ProjectDAO::setSessionAttribute() in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 33
+[07-Dec-2015 05:15:18 UTC] PHP Warning:  Missing argument 1 for SessionManager::setSessionAttribute(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 33 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/SessionManager.php5 on line 70
+[07-Dec-2015 05:15:18 UTC] PHP Warning:  Missing argument 2 for SessionManager::setSessionAttribute(), called in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/registerForm.php5 on line 33 and defined in /home/majestiquedi/public_html/introtophp/Honors Project/Template/SessionManager.php5 on line 70
+[08-Dec-2015 00:55:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66584581 bytes) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/DisplayStars.php5 on line 25
+[08-Dec-2015 01:00:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66584581 bytes) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/DisplayStars.php5 on line 17
+[08-Dec-2015 01:02:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846721 bytes) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/DisplayStars.php5 on line 17
+[08-Dec-2015 01:02:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846721 bytes) in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/DisplayStars.php5 on line 17
+[08-Dec-2015 01:11:17 UTC] PHP Fatal error:  Class 'DisplayStars' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/Feedback/reviews.php5 on line 10

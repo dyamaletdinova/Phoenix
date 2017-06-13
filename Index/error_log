@@ -1,0 +1,5 @@
+[05-Dec-2015 23:27:12 UTC] PHP Fatal error:  Class 'NavigationHandler' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/mainheader.php5 on line 12
+[05-Dec-2015 23:29:03 UTC] PHP Fatal error:  Class 'NavigationHandler' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/mainheader.php5 on line 12
+[05-Dec-2015 23:30:38 UTC] PHP Fatal error:  Call to undefined method NavigationHandler::setActive() in /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/mainheader.php5 on line 13
+[05-Dec-2015 23:53:52 UTC] PHP Fatal error:  Class 'http\Env' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/NavigationHandler.php5 on line 29
+[06-Dec-2015 00:23:09 UTC] PHP Fatal error:  Class 'NavigationHandler' not found in /home/majestiquedi/public_html/introtophp/Honors Project/Template/MainPage/mainheader.php5 on line 12
